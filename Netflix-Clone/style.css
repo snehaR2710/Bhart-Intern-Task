@@ -284,6 +284,7 @@ html {
   font-size: 3.6rem;
 }
 .third-text-col p{
+  padding-top: 18px;
   position: absolute;
   top: 44%;
   left: 11%;
