@@ -96,6 +96,17 @@ body, html{
     cursor: pointer;
     transition: .4s ease;
 }
+.soical-img{
+    position: relative;
+    margin-left: 210px;
+    margin-top: -40px;
+}
+.soical-img a img{
+    background-color: transparent;
+    margin-left: 14px;
+    height: 38px;
+    width: 38px;
+}
 .info button:hover{
     background-color: #eb3b17;
 }
@@ -143,6 +154,9 @@ body, html{
     justify-content: center;
     align-items: center;
     gap: 55px;
+}
+.about-section img{
+    background-color: transparent;
 }
 .work-section span{
     color: #2e3cbf;
